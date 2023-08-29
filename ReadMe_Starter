@@ -1,0 +1,11 @@
+READ ME: Booking_EurekaServer
+
+* Right click on "BookingEurekaServer.java" Run as Spring Boot App
+* Eureka server default port below
+	local browser: http://localhost:8761 
+
+Run Booking guest and room apps
+* Under: Instances currently registered with Eureka
+	Booking_Guest
+	Booking_Room
+
